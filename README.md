@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="apmauj banner" width="100%">
+  <img src="./banner.png" alt="apmauj banner" width="100%">
 </p>
-# 👋 Hola soy Apmauj! 
+
+## 👋 Hola soy Apmauj! 
 
 Desarrollador de software de Uruguay 🇺🇾
 
